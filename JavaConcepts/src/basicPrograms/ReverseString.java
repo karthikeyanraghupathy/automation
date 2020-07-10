@@ -38,7 +38,6 @@ public class ReverseString {
 	  
 	        System.out.println(new String(result));  
 	}
-
 	
 	public void chararray()  //String to character array
 	{
