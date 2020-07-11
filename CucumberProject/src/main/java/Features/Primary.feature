@@ -8,4 +8,4 @@ When Verify Title & Search for cucumber
 
 Then Verify the Junit package is present
 
-And Click on search button
+Then SwitchTo Junit window
